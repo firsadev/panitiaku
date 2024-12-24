@@ -20,7 +20,7 @@
 				href="https://devdojo.com/wave/docs"
 				target="_blank"
 				title="Buat Event"
-				description="Mulai buat event hari ini"
+				description="Mulai buat event hari ini ya"
 				link_text="Lengkapi"
 				image="/wave/img/docs.png"
 			/>
