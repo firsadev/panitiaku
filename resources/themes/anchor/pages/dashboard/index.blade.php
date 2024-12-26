@@ -19,9 +19,9 @@
             <x-app.dashboard-card
 				href="https://devdojo.com/wave/docs"
 				target="_blank"
-				title="Buat Event"
-				description="Mulai buat event hari ini ya"
-				link_text="Lengkapi"
+				title="Documentation"
+				description="Learn how to customize your app and make it shine!"
+				link_text="View The Docs"
 				image="/wave/img/docs.png"
 			/>
 			<x-app.dashboard-card

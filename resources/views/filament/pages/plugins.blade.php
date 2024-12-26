@@ -2,7 +2,7 @@
     <x-filament::section class="w-full">
         <div class="relative w-full">
             @if(count($plugins) < 1) 
-                <x-empty-state description="No emang plugins found in your plugins folder" />
+                <x-empty-state description="No plugins found in your plugins folder" />
             @endif
 
             <div class="grid grid-cols-1 gap-5 xl:grid-cols-3 md:grid-cols-2">
